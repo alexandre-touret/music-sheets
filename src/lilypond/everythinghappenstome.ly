@@ -1,6 +1,4 @@
 \version "2.18.2"
-%%myStaffSize = #16
-#(set-global-staff-size myStaffSize)
 \header {
   title="Everything Happens To Me"
   composer="Matt Dennis"
