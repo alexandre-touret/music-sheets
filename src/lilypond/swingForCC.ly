@@ -81,20 +81,20 @@ upper=
   \tempo \markup {
 
 
-    \concat {
-      \smaller \general-align #Y #DOWN \note #"4" #1
-      " = "
-      " 150-170 "
-
-      (
-      \smaller \general-align #Y #DOWN \note #"8" #1
-      \smaller \general-align #Y #DOWN \note #"8" #1
-      " = "
-      \smaller \general-align #Y #DOWN \note #"8." #1
-      " "
-      \smaller \general-align #Y #DOWN \note #"16" #1
-      )
-    }
+   %  \concat {
+%       \smaller \general-align #Y #DOWN \note #"4" #1
+%       " = "
+%       " 150-170 "
+% 
+%       (
+%       \smaller \general-align #Y #DOWN \note #"8" #1
+%       \smaller \general-align #Y #DOWN \note #"8" #1
+%       " = "
+%       \smaller \general-align #Y #DOWN \note #"8." #1
+%       " "
+%       \smaller \general-align #Y #DOWN \note #"16" #1
+%       )
+%     }
   }
   \key bf \major
   \partie_melodie_a |
