@@ -96,22 +96,20 @@ upper=
   \time 4/4
   %%\tempo 4=1
   \tempo \markup {
-
-
-    \concat {
-      \smaller \general-align #Y #DOWN \note #"4" #1
-      " = "
-      " 120-140 ou 180-200 "
-
-      (
-      \smaller \general-align #Y #DOWN \note #"8" #1
-      \smaller \general-align #Y #DOWN \note #"8" #1
-      " = "
-      \smaller \general-align #Y #DOWN \note #"8." #1
-      " "
-      \smaller \general-align #Y #DOWN \note #"16" #1
-      )
-    }
+%     \concat {
+%       \smaller \general-align #Y #DOWN \note #"4" #1
+%       " = "
+%       " 120-140 ou 180-200 "
+% 
+%       (
+%       \smaller \general-align #Y #DOWN \note #"8" #1
+%       \smaller \general-align #Y #DOWN \note #"8" #1
+%       " = "
+%       \smaller \general-align #Y #DOWN \note #"8." #1
+%       " "
+%       \smaller \general-align #Y #DOWN \note #"16" #1
+%       )
+%     }
   }
   \key bes \major
  
