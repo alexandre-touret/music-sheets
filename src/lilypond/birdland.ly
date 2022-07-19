@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.22.0"
 %%%myStaffSize = #26
 %%%#(set-global-staff-size myStaffSize)
 \header {
@@ -87,7 +87,7 @@ upper=
   <ees aes ces> <d g bes> <cis f a> r8 <g' c ees>~->
   <g c ees>4 <fis b d> <f b des> <e a c>
   <ees aes ces> <d g bes> <cis f a> r4
-  \compressFullBarRests
+  \expandEmptyMeasures
   R1*2
   
   R1*8
