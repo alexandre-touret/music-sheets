@@ -212,7 +212,7 @@ lower=
   f4 e ees d des c b\mp bes8\ff f'~->
   f4\dim e ees d
   des4 c b\mp r
-  \compressFullBarRests
+  \expandEmptyMeasures
   R1*2
   
   
